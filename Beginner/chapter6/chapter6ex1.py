@@ -1,0 +1,7 @@
+print(100 == 100)
+print(100 == 200)
+print('hello' == 'goodbye')
+print('a' > 'b')
+print(100 != 1)
+print(100 != 100)
+print(100 <= 200)
